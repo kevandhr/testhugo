@@ -3,34 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://likemilk.github.io/testhugo/posts/my-first-post/</loc>
+    <loc>https://localhost:1313/contact/</loc>
+    <lastmod>2019-01-17T15:06:50+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/about/</loc>
+    <lastmod>2019-01-17T15:04:10+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/posts/my-post-2/</loc>
     <lastmod>2019-01-17T10:10:23+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://likemilk.github.io/testhugo/categories/</loc>
+    <loc>https://localhost:1313/posts/my-post-3/</loc>
+    <lastmod>2019-01-17T10:10:23+01:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://likemilk.github.io/testhugo/</loc>
+    <loc>https://localhost:1313/posts/my-post-4/</loc>
+    <lastmod>2019-01-17T10:10:23+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/posts/my-post-5/</loc>
+    <lastmod>2019-01-17T10:10:23+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/posts/my-first-post/</loc>
+    <lastmod>2019-01-17T10:10:23+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/posts/</loc>
     <lastmod>2019-01-17T10:10:23+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://likemilk.github.io/testhugo/posts/</loc>
-    <lastmod>2019-01-17T10:10:23+01:00</lastmod>
+    <loc>https://localhost:1313/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://likemilk.github.io/testhugo/tags/</loc>
+    <loc>https://localhost:1313/topics/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://localhost:1313/</loc>
+    <lastmod>2019-01-17T15:06:50+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
